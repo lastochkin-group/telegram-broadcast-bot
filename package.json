@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.2",
+    "axios": "^1.7.5",
+    "bull": "^4.16.1",
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "moment-timezone": "^0.5.45",
+    "redis": "^4.7.0",
+    "supabase": "^1.191.3",
+    "telegraf": "^4.16.3"
+  }
+}

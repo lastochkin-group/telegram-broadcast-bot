@@ -1,0 +1,15 @@
+{
+    "messageText": "Your message here",
+    "imageUrl": "https://your-image-url.com/image.png",
+    "buttons": [
+        {
+            "text": "Button1",
+            "url": "https://link1.com"
+        }
+    ],
+    "estimatedUserCount": 300000,
+    "reportChatId": "123456789",
+    "webhookUrl": "https://your-webhook-url.com/report",
+    "reportIntervalMinutes": 1,
+    "scheduledTime": "20.08.2023 16:00"
+}
